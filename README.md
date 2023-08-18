@@ -5,7 +5,7 @@
 <img src="https://github.com/fullbridgeR/Sherpa4Bambu/assets/76274248/63e62b00-6aea-401f-b40d-599efe57796c" width="40%"/> <img src="https://github.com/fullbridgeR/Sherpa4Bambu/assets/76274248/39b56617-14f4-4911-8c4a-63f353d47a68#pic_center" width="40%"/>
 
 
-拓竹热端因其轻量、高效而被广大3d打印爱好者使用。目前网络上已有很多爱好者针对拓竹热端同不同机型进行了改进，旦截至目前还没有人对Sherpa mini Mount进行适配。sherpa mini是一款轻量级的挤出机，使用BMG齿轮套件，在保证结构强度的情况下进行了拓扑优化。本项目改进了Mount结构，可以将拓竹热端同Sherpa mini挤出机使用。本项目已经打印并验证，如出现问题欢迎提issue。
+拓竹热端因其轻量、高效而被广大3d打印爱好者使用。目前网络上已有很多爱好者针对拓竹热端同不同机型进行了改进。sherpa mini是一款轻量级的挤出机，使用BMG齿轮套件，在保证结构强度的情况下进行了拓扑优化。本项目改进了Mount结构，可以将拓竹热端同Sherpa mini挤出机使用。本项目已经打印并验证，如出现问题欢迎提issue。
 
 ## 说明
 - 适配了拓竹热端
