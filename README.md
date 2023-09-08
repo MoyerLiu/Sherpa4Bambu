@@ -1,4 +1,9 @@
 # Voron Sherpa mount adapted for Bambu hotend
+
+
+Language: | [English](https://github.com/MoyerLiu/Sherpa4Bambu/blob/main/README_EN.md) | [简体中文](https://github.com/MoyerLiu/Sherpa4Bambu/blob/main/README.md) |
+---
+
 ## What is this？
 这是一个专为拓竹热端适配的模块，可以良好的固定拓竹的热端。
 
