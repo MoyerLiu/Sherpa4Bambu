@@ -1,4 +1,7 @@
 # Voron Sherpa mount adapted for Bambu hotend
+
+Language: | [English](https://github.com/MoyerLiu/Sherpa4Bambu/blob/main/README_EN.md) | [简体中文](https://github.com/MoyerLiu/Sherpa4Bambu/blob/main/README.md) |
+---
 ## What is this？
 This is a module specifically designed to fit Bambu hotend, providing a secure and reliable fixation for Bambu hotend.
 
